@@ -1,0 +1,2 @@
+qmk flash -kb crkbd/rev1 -km crkbd_v2_alien -e CONVERT_TO=rp2040_ce -bl uf2-split-left
+qmk flash -kb crkbd/rev1 -km crkbd_v2_alien -e CONVERT_TO=rp2040_ce -bl uf2-split-right
