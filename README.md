@@ -1,6 +1,6 @@
 # Complete 'Alien' (1979) customization for a Corne Split Keyboard v.2.00 with rp2040's 16Mb.
 
-![in all of its glory](https://codeberg.org/inertiqa/crkbd_v2_alien/raw/commit/e5442c4fdcb2b021e232ffe67e922409c8fc5789/graphics/screenshot.jpg "in all of its glory")
+![in all of its glory](https://github.com/inertiqa/crkbd_v2_alien/blob/cbf40caa89ed9050148b466aa7117d1ace6a7c18/graphics/screenshot.jpg "in all of its glory")
 
 - 'Mainframe' key pattern lighting
 - Custom oled logo on slave side, with glitching effect
